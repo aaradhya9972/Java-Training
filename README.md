@@ -1,2 +1,2 @@
 # Java-Training
-Contains all the codes taught in java training program at MIT ADT 
+Contains all the codes taught in java training and placement program at MIT ADT.
